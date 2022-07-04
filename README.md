@@ -39,7 +39,7 @@ DS1H4sIAAAAAAAACqVYS3ObOhT+L6w9HZ4CvGuS22bRdDJNOu29OxkrNjUxFGP3kcl/75F0jiSwO3MBb
 2. Navigate to the `Look & Feel` tab at the top of the window.
 3. Click `Open Style Editor`.
 4. Copy the text from the [Source](https://github.com/k-kz/Catppuccin-Dalamud/edit/main/README.md#source) section immediately above <br> (can also be found [here](https://github.com/k-kz/Catppuccin-Dalamud/blob/main/theme.txt))
-5. Near the top, click on the `Import style from clipboard` button. <br> <img src="/Images/Dalamud_Import_Icon.png" height="50"/>
+5. Near the top, click on the `Import style from clipboard` button. <br><br> <img src="/Images/Dalamud_Import_Icon.png" height="50"/>
 6. Ensure the theme is selected in the `Choose Style` box.
 7. Enjoy!
 
