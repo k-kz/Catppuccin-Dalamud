@@ -57,4 +57,5 @@ DS1H4sIAAAAAAAACqVYS3ObOhT+L6w9HZ4CvGuS22bRdDJNOu29OxkrNjUxFGP3kcl/75F0jiSwO3MBb
 - [Catppuccin](https://github.com/catppuccin) for their provided [palettes](https://github.com/catppuccin/catppuccin#-palettes) and [style guide](https://github.com/catppuccin/catppuccin/blob/dev/docs/style-guide.md).
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a></p>
 <p align="center"><a href="https://github.com/k-kz/Catppuccin-Dalamud/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
