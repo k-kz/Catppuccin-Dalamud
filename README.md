@@ -23,8 +23,8 @@
 ## Preview
 
 <p align="center">
-  <img src="/Images/Catppuccin-Dalamud_PluginWindow.png" height="400"/> &nbsp; &nbsp; &nbsp;
-  <img src="/Images/Catppuccin-Dalamud_ColorWindow.png" height="400"/>
+  <img src="/Images/Catppuccin-Dalamud_PluginWindow.png" height="350"/> &nbsp; &nbsp;
+  <img src="/Images/Catppuccin-Dalamud_ColorWindow.png" height="350"/>
 </p>
 
 ## Source
