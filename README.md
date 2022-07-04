@@ -13,10 +13,8 @@
     <a href="https://github.com/k-kz/Catppuccin-Dalamud/contributors"><img src="https://img.shields.io/github/contributors/k-kz/Catppuccin-Dalamud?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-##
+## Table of Contents
 <!-- Contents Table -->
-<details>
-  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about">What is Catppuccin-Dalamud?</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
@@ -26,7 +24,6 @@
     <li><a href="#faq">FAQ</a></li>
     <li><a href="#thanks">Thanks</a></li>
   </ol>
-</details>
 
 <section id="about">
 
