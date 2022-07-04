@@ -13,14 +13,36 @@
     <a href="https://github.com/k-kz/Catppuccin-Dalamud/contributors"><img src="https://img.shields.io/github/contributors/k-kz/Catppuccin-Dalamud?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-## ❓ What is Catppuccin-Dalamud?
+##
+<!-- Contents Table -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about">What is Catppuccin-Dalamud?</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#source">Source</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#faq">FAQ</a></li>
+    <li><a href="#thanks">Thanks</a></li>
+  </ol>
+</details>
 
-  [Catppuccin-Dalamud](https://github.com/k-kz/Catppuccin-Dalamud) is a theme for the [Dalamud](https://github.com/goatcorp/Dalamud) plugin interface for [Final Fantasy XIV](https://www.finalfantasyxiv.com/). <br>
-  
+<section id="about">
+
+## ❓ What is Catppuccin-Dalamud?
+[Catppuccin-Dalamud](https://github.com/k-kz/Catppuccin-Dalamud) is a theme for the [Dalamud](https://github.com/goatcorp/Dalamud) plugin interface for [Final Fantasy XIV](https://www.finalfantasyxiv.com/). <br> 
+</section>
+
+<section id="prerequisites">
+
 ## 📎 Prerequisites
 
   * Install <a href="https://www.finalfantasyxiv.com/" alt="Final Fantasy XIV">FFXIV</a>
   * Install <a href="https://github.com/goatcorp/FFXIVQuickLauncher#how-to-install-the-launcher" alt="XIVLauncher">XIVLauncher</a>
+</section>
+
+<section id="preview">
 
 ## 🔍 Preview
 
@@ -28,12 +50,18 @@
   <img src="/Images/Catppuccin-Dalamud_PluginWindow.png" height="350"/> &nbsp; &nbsp;
   <img src="/Images/Catppuccin-Dalamud_ColorWindow.png" height="350"/>
 </p>
+</section>
+
+<section id="source">
 
 ## 💾 Source
 
 ```
 DS1H4sIAAAAAAAACqVYS3ObOhT+L6w9HZ4CvGuS22bRdDJNOu29OxkrNjUxFGP3kcl/75F0jiSwO3MBb4Swvu+8jyRePO4tgzf+wlt5yxfvq7fM5ORfNb4uvMJb+vLFGkeBq3xc5b9JYNUTcCy8Db7eImOJc77Ch28IZggOlYgd/lvh+IyrYlzF1Kr9AKvf1hffNvg2wreRevsd1FLGtfAAohfegR46NPuIKpxw/IHjTxx/GesTx/rfZz6R4ji/qEVRg50v3qP42RlY5kd5GDAEZ3KSpAvvPznLE5axMAV5X5RbgUJib8oDX1VibThY4ueZHyMHS7M4CmLkUJMojR2OL+V+Xf+42ljVmfqlZIGZKobAT7IsjBKX4npbVuuJDNpF93VzbFyGjLAZouSDWp7HsP6qbteitcvzOAhSRqGwUy0wVh7RjoNA+UHO/MywPGw5OGCG8u9a/iwc5QMZNZYRg5Qm/Y4MoSYkcxKtqqW5rU+idcIZpkok2Rb24hklIdgaIldsWd4WXXmyJRoZFyiSyKSSYokpzxQLQ4Eyv8quErNSAxkG6kzmua6rijcHxz3jqe7E/njFWzdgVCzGr4ELeChaELvqQcZniWF538o2OD5XgnOayblygWtyxlAPEMXujre7v/ShLJdlFyCeyS4UMleXqoRa7PlmrDWGYaYpV8euq2mXgQWhkhUi3KxX6CRM4tx3C1Cjh5GJQQEAEkkCNR+nxhuyBcRUf7lW13INzEnkWp/2CEYcWkB0TnIruNsrR3WnSJJEeWRoZnSnzJDMjM+DaHjLu3qiTbb/G6IZVtGO6tLNaL5O3D6JQ/lbvG/LZnq3sBwzW4Ulmhm8x2nND9IHW6rmmBMxWT5JrnlmhKrH83n/VBdHd2MaZVyeyj4yoJrp6Zu62JX7zX0rTqWw55tYNizQBmlSfeQ0h8xeP0tNqSDZP89N98vZBqmfhWSWI/++qrsP5V4c7I4QUNOyne8SYBjcnOKne6f2A2nMdF4kA6Lb8tDVGzgMWZZe38yk82LyHqPZZY4zhfrndHST2RLk8dOtQghqJXTr6x0TTWpc8J7C4AG1a+u9xUXkRfmA+X0Z+KHcbO3dQu4NOlgmCc9wnybfBPwByduKJKsbIBCoEZBq1AiGd5gHUYmiE+4dYkyaRnppKPO05Zubtm4eebsR3ejYw0qT8h/56RYcWPWcmMCxBUSbwEsXUJuxWWGcChz6fgW1MyT7u1/SAfKmfHY8Q1cjyjfqIdL8u3rNK437f6AoeZVXargzeEvvmndNcyyKcu/BPV9fT/nkKlyNObEE9I1h7HlJA9fjT2saaNtrxqIwN+0arEkZ1Ukegzj3RvA09cK+mdpCthMKQyNLG4aeS/tFkOk90sHRJxrJKTcy6Q0dPwkzoUhVHji43cSGWxmcqSptoNn2tIFmHzVI2+IJQxXpxmw/8WJST639xhqkdTafZEi+Rp67Ar5PTcsSeyI2XtK43tkj143b1dXu0WOCBkDYF+Gf1z+6Z+sXPRQAAA==
 ```
+</section>
+
+<section id="usage">
 
 ## 📂 Usage
 
@@ -44,6 +72,9 @@ DS1H4sIAAAAAAAACqVYS3ObOhT+L6w9HZ4CvGuS22bRdDJNOu29OxkrNjUxFGP3kcl/75F0jiSwO3MBb
 5. Near the top, click on the `Import style from clipboard` button. <br><br> <img src="/Images/Dalamud_Import_Icon.png" height="50"/>
 6. Ensure the theme is selected in the `Choose Style` box.
 7. Enjoy!
+</section>
+
+<section id="faq">
 
 ## 🙋 FAQ 
 
@@ -51,10 +82,14 @@ DS1H4sIAAAAAAAACqVYS3ObOhT+L6w9HZ4CvGuS22bRdDJNOu29OxkrNjUxFGP3kcl/75F0jiSwO3MBb
 - A: Modify the alpha values of `WindowBg`, `TitleBg`, `TitleBgActive` and `TitleBgCollapsed`. <br><br>
 - **Q: _"How can I make the window/button/tab corners rounded?"_**
 - A: Modify the values of `WindowRounding`, `FrameRounding`, and `TabRounding`.
+</section>
 
-## 💝 With thanks to:
+<section id="thanks">
+
+## 💝 Thanks
 
 - [Catppuccin](https://github.com/catppuccin) for their provided [palettes](https://github.com/catppuccin/catppuccin#-palettes) and [style guide](https://github.com/catppuccin/catppuccin/blob/dev/docs/style-guide.md).
+</section>
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a></p>
